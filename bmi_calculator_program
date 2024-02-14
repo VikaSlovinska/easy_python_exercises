@@ -1,3 +1,6 @@
+```python
+
+
 """
 Write a program that takes input from user and calculate user's BMI (Body Mass Index).
 After calculating the BMI value, print out message indicating the person is 'Underweight', 'Normal', 'Overweight'
